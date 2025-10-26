@@ -30,7 +30,7 @@ Find the .ipynb [here](Maven_Music_eda.ipynb)
     1. What are the observations
     2. What are some of the good predictors of customer cancellations
 
-## Observations:
+## Summary of Findings:
 Some of the good predictors of cancellation are:
 1. Discounts.
 2. No. of listening sessions.
