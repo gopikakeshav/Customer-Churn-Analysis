@@ -15,7 +15,7 @@ Maven Analytics
 `(Courtesy Maven Analytics)`\
 \
 The store is facing decrease in revenue due to increasing subscription cancellations. 
-The store wants identify why customers cancel and how to increase customer sign ups.
+The store wants to identify why customers cancel and how to increase customer sign ups.
 
 ## Analysis:
 Find the .ipynb [here](Maven_Music_eda.ipynb) 
