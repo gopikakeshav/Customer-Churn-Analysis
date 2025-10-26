@@ -12,7 +12,7 @@ To discover the factors that help predict customer cancellations at Maven Music.
 Maven Analytics
 
 ## Business Problem:
-~(Courtesy Maven Analytics)~
+`(Courtesy Maven Analytics)`
 The store is facing decrease in revenue due to increasing subscription cancellations. 
 The store wants identify why customers cancel and how to increase customer sign ups.
 
