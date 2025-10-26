@@ -13,6 +13,7 @@ Maven Analytics
 
 ## Business Problem:
 `(Courtesy Maven Analytics)`\
+\
 The store is facing decrease in revenue due to increasing subscription cancellations. 
 The store wants identify why customers cancel and how to increase customer sign ups.
 
