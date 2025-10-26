@@ -1,5 +1,5 @@
 # Maven Music
-## ✦ Discovering ways to increase subscription using Python EDA 
+## ✦ Discovering ways to increase user subscriptions using Python EDA 
 
 ## Objective:
 To discover the factors that help predict customer cancellations at Maven Music.
