@@ -1,4 +1,4 @@
-# Maven Music
+# Customer Churn Analysis for Maven Music
 ## ✦ Discovering ways to increase user subscriptions using Python 
 
 ## Objective:
